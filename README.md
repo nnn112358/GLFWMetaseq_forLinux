@@ -54,6 +54,6 @@ make
 | `LICENCE.txt` | ライセンス情報 |
 
 ## ライセンス
-
 GLMetaseq ライブラリ部分は MIT License です。
+https://kougaku-navi.net/ARToolKit/  
 Copyright (c) 2009 Sunao Hashimoto and Keisuke Konishi
